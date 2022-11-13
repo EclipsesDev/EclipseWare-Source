@@ -14,4 +14,4 @@ TAKE CREDIT OF IT!
 # Credit
 **WinForms UI:** Eclipse#6582 / Me
 
-**Code:** Some of the code are not belong to me
+**Code:** 1_F0, And Some other of the code are not belong to me
